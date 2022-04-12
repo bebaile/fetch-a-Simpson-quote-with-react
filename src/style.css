@@ -1,0 +1,17 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.main {
+  text-align: center;
+}
+
+img {
+  height: 200px;
+}
+
+.pres {
+  display: flex;
+  align-items: center;
+}
